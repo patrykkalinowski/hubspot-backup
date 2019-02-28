@@ -1,4 +1,4 @@
-# hubspot-backup
+# Hubspot Content Backup
 
 Ruby scripts to backup Hubspot content to files
 
