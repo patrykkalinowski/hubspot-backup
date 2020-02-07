@@ -1,5 +1,9 @@
 # Hubspot Content Backup
 
+## These scripts are deprecated. Please go to <https://hubspot-backup.patrykkalinowski.com/> to download updated version.
+
+---
+
 Ruby scripts to backup Hubspot content to files
 
 These are very rough and simple scripts which you can use to backup your Hubspot content on drive.
